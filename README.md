@@ -3,8 +3,12 @@
 SUCC-bag ported for 3.3.5 client by Emillion and ChatGPT5.
 
 I AM NOT THE ORIGINAL AUTHOR!! I just liked the addon and wanted to use it on 3.3.5 client.
+
+All credit goes to checkem <3
+
 I used ChatGPT for help porting it, (I am not a programmer lol).
 
+Original: https://github.com/checkem/SUCC-bag
 
 ![SUCCbag](https://user-images.githubusercontent.com/107083057/234946553-9c0dfd94-ef42-4c34-8b6d-e9b99732fa20.png)
 
